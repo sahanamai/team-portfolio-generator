@@ -20,9 +20,9 @@ npm run test
 This project is license under MIT license.
 
 ## Link
-https://github.com/sahanamai/team-portfolio-generator
+github Repo URL: https://github.com/sahanamai/team-portfolio-generator
 
-https://drive.google.com/file/d/1EyK_l7E4hxi3kdPvDkpqZdrqbN46dsym/view?usp=sharing
+Walkthrough video: https://drive.google.com/file/d/1EyK_l7E4hxi3kdPvDkpqZdrqbN46dsym/view?usp=sharing
 
 ## Screenshot
 ![test](https://user-images.githubusercontent.com/41078587/151735760-67ef1d11-221b-45e5-bc05-cff5319a7ec1.png)
