@@ -97,7 +97,7 @@ function employeeQue() {
     internQue();  
    }
    else{
-    fs.writeFile('./dist/index.html', generateHTML(teamMembers) , (err) =>
+    fs.writeFile('./sampleindex.html', generateHTML(teamMembers) , (err) =>
     err ? console.log(err) : console.log('response written to index.html'))
     console.log(teamMembers);
 
