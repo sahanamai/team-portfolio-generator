@@ -7,8 +7,8 @@
 * Run the following command and answer all of the prompts:
   npm init -y.
 * Run the following commands:
-  npm install inquirer
-  npm install jest
+  npm install inquirer,
+  npm install jest.
 
 ## Usage
 node index.js
