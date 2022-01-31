@@ -22,3 +22,12 @@ This project is license under MIT license.
 https://github.com/sahanamai/team-portfolio-generator
 
 https://drive.google.com/file/d/1EyK_l7E4hxi3kdPvDkpqZdrqbN46dsym/view?usp=sharing
+
+## Screenshot
+![test](https://user-images.githubusercontent.com/41078587/151735760-67ef1d11-221b-45e5-bc05-cff5319a7ec1.png)
+
+![page](https://user-images.githubusercontent.com/41078587/151735766-2b096487-57fe-4085-9909-440da3a6d758.png)
+
+![input](https://user-images.githubusercontent.com/41078587/151735776-4bd62536-be47-4602-b435-013c8998dce6.png)
+
+
